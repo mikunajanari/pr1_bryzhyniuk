@@ -7,7 +7,6 @@ import java.util.Random;
 
 public class Benchmark {
     private static final int N = 100000;
-    private static Object r;
 
     public static void run2D() {
         Random random = new Random();
