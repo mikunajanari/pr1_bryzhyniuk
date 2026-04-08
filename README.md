@@ -26,3 +26,5 @@ Main - точка входу в програму.
 4. Запустити файл Main.java.
 
 ## Результати перевірки коректності
+
+<img width="441" height="389" alt="image" src="https://github.com/user-attachments/assets/2ec8ed7f-4352-4bc2-93f3-91d854d2d99c" />
